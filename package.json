@@ -1,6 +1,6 @@
 {
-  "name": "copy-file-plugin",
-  "version": "1.0.5",
+  "name": "copy-file-webpack-plugin",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
